@@ -1,5 +1,3 @@
 ```
-brew install imagemagick
-brew install graphicsmagick
-brew install exiftool
+brew install imagemagick graphicsmagick exiftool
 ```
